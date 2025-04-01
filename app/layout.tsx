@@ -14,7 +14,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "DevSpace",
-  description: "A Better version of Stack Overflow",
+  description: "A community driven platform for answering programming questions. Get help,share knowledge, and collaborate with all the people around the world. Explore topics in web development, mobile app development, algorithms,data structures and more.",
+icons:{
+  icon: "/images/site-logo.svg"
+}
 };
 
 export default function RootLayout({
