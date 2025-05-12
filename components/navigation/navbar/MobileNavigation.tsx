@@ -28,7 +28,7 @@ const MobileNavigation = () => {
             className='invert-color sm:hidden'
             />
         </SheetTrigger>
-        <SheetContent className='background-light900_dark200 border-none px-4' side='left'>
+        <SheetContent className='background-light900_dark200 border-none px-5' side='left'>
 
             <SheetTitle className='hidden'>Navigation</SheetTitle>
             

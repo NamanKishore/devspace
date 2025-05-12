@@ -16,7 +16,7 @@ export default async function Home() {
       "use server"
       await signOut({redirectTo:ROUTES.SIGNIN})
      }}>
-    <Button className="px-14 mt-18 ml-11">Log out</Button>
+    
     </form>
     </>
   );
